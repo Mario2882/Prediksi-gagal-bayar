@@ -91,7 +91,7 @@ Output evaluasi:
 
 * Pendekatan ini dapat dijadikan dasar untuk sistem credit scoring yang lebih kompleks
 
-🚀 Pengembangan Selanjutnya
+## 🚀 Pengembangan Selanjutnya
 
 * Menambahkan model lain (Random Forest, XGBoost)
 
@@ -102,7 +102,7 @@ Output evaluasi:
 * Model interpretability (coef analysis, SHAP)
 
 
-👤 Author
+## 👤 Author
 
 Mario Baswara
 
